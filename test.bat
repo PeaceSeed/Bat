@@ -12,7 +12,7 @@ echo *               2. Bootloader Stage                   *
 echo/
 echo *               3. CPU Info                           *
 echo/
-echo *               4. CPU InfoDevice Model               *
+echo *               4. Device Model               *
 echo/
 echo *               5. Firmware Region                    *
 echo/
